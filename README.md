@@ -164,7 +164,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 
 ## GitHub Stats:
 
-![Adnan's github stats](https://github-readme-stats.vercel.app/api?username=adnan1naeem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Adnans's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan1naeem&show_icons=true&theme=dark)
 
 ## 📫 Get in Touch
 
