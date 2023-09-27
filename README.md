@@ -46,6 +46,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
         <!-- and other domains... -->
     </ul>
 </details>
+
 ## 🎉 Projects
 
 <details>
