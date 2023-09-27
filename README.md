@@ -1,4 +1,4 @@
-<img height="290" align="left" alt="Profile Pic" src="https://media.licdn.com/dms/image/C4D03AQFxURWylubeKQ/profile-displayphoto-shrink_400_400/0/1663576848228?e=1701302400&v=beta&t=gGFJhwzIVxB2cYl4LOgBCyoAPXPtSw6fxmmTRMWDnoc" />
+<img height="290" align="left" alt="Profile Pic" src="https://avatars.githubusercontent.com/u/22443038?v=4" />
 
 # Hello World!
 
@@ -50,7 +50,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 ## 🎉 Projects
 
 <details>
-    <summary>Health & Fitness</summary>
+    <summary>🏋️ Health & Fitness</summary>
     <ul>
         <li><strong>Steppi</strong> - Fitness, Tracking, HeartRate, Steps Count, PushUps
             <ul>
@@ -72,7 +72,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 </details>
 
 <details>
-    <summary>Management App</summary>
+    <summary>📋 Management App</summary>
     <ul>
         <li><strong>Cinderblock</strong> - Project management for Contractors (Flutter)
             <ul>
@@ -95,7 +95,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 </details>
 
 <details>
-    <summary>Crypto</summary>
+    <summary>💹 Crypto</summary>
     <ul>
         <li><strong>Cryptonaire</strong>
             <ul>
@@ -108,7 +108,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 </details>
 
 <details>
-    <summary>Delivery App</summary>
+    <summary>🚚 Delivery App</summary>
     <ul>
         <li><strong>Qartt</strong> - Built customer and driver-side applications (Flutter)
             <ul>
@@ -120,7 +120,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 </details>
 
 <details>
-    <summary>Social Networking</summary>
+    <summary>🌐 Social Networking</summary>
     <ul>
         <li><strong>Linked Golf app</strong>
             <ul>
@@ -144,7 +144,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 </details>
 
 <details>
-    <summary>Lifestyle app</summary>
+    <summary>🌟 Lifestyle app</summary>
     <ul>
         <li><strong>Dashboard.Earth</strong>
             <ul>
