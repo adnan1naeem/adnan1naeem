@@ -12,7 +12,7 @@ I’m a detail-oriented tech enthusiast with a passion for merging the realms of
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-naeem-442620130)
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/adnan1naeem)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://techtiz.co/)
+[![Website](https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black)](https://techtiz.co/)
 
 ## 🛠 Key Offerings And Skills
 
